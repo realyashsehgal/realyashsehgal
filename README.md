@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Data Cleaner project**
 
-- 🌱 I’m currently learning **power bi, flask, pandas, numpy**
+- 🌱 I’m currently learning **power bi, flask, Machine learning**
 
 - 📫 How to reach me **yash.sehgal1234@gmail.com**
 
