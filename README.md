@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/realyashsehgal" target="blank"><img src="https://img.shields.io/twitter/follow/realyashsehgal?logo=twitter&style=for-the-badge" alt="realyashsehgal" /></a> </p>
 
-- 🔭 I’m currently working on **Data Cleaner project**
-
 - 🌱 I’m currently learning **power bi, flask, Machine learning**
 
 - 📫 How to reach me **yash.sehgal1234@gmail.com**
